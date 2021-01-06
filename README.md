@@ -12,7 +12,7 @@ So I sat down and opened IDE - decided to save my colleague's carpal tunnels, I 
 ## What does the script do:
 **- Uses BeautifulSoup library to get links of files to be downloaded**
 
-**- Donwloads all the files of particular project**
+**- Downloads all the files of particular project**
 
 **- Uses threading to get all the files even faster** 
 
