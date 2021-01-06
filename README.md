@@ -20,6 +20,7 @@ So I sat down and opened IDE - decided to save my colleague's carpal tunnels, I 
 
 #### - Runs from .exe file for quick & easy acces
 
+## How to use:
 To get required files, just paste the URL of particular project (or multiple project URLs) into text box, choose required file type and press download. This version 
 saves all the files into the folder where the .exe file is located (into newly created folder.)
 
