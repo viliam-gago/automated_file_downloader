@@ -24,3 +24,5 @@ To get required files, just paste the URL of particular project (or multiple pro
 saves all the files into the folder where the .exe file is located (into newly created folder.)
 
 Although this script isn't much complex, it proved itself quite useful. My colleagues are using it on daily basis and we save hours and hours of exhausting work.
+
+![alt text](https://github.com/viliam-gago/automated_file_downloader/blob/master/img/pic.png?raw=true)
