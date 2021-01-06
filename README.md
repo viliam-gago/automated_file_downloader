@@ -24,6 +24,6 @@ So I sat down and opened IDE - decided to save my colleague's carpal tunnels, I 
 To get required files, just paste the URL of particular project (or multiple project URLs) into text box, choose required file type and press download. This version 
 saves all the files into the folder where the .exe file is located (into newly created folder.)
 
-Although this script isn't much complex, it proved itself quite useful. My colleagues are using it on daily basis and we save hours and hours of exhausting work.
+Although this script isn't much complex, it proved itself quite useful. Me and even  my colleagues are using it on daily basis, saving hours and hours of exhausting work.
 
 ![alt text](https://github.com/viliam-gago/automated_file_downloader/blob/master/img/pic.png?raw=true)
