@@ -7,7 +7,7 @@ clicking through the whole list can quickly become exhausting (and can take even
 
 So I sat down and opened IDE - decided to save my colleague's carpal tunnels, I came up with an idea to automate this task using my modest Python skills.
 
-**This file is executable only when acces to mentioned server is granted.** However, I would like to publish for later inspiration or use.
+**Unfortunately, this file is executable only when acces to mentioned server is granted.** However, I would like to publish for later inspiration or use.
 
 ## What does the script do:
 #### - Uses BeautifulSoup library to get links of files to be downloaded
@@ -18,7 +18,7 @@ So I sat down and opened IDE - decided to save my colleague's carpal tunnels, I 
 
 #### - Provides GUI to allow simple use without need to code anything
 
-#### - Runs from .exe file for quick & easy acces
+#### - Runs from .exe file for quick & easy access
 
 ## How to use:
 To get required files, just paste the URL of particular project (or multiple project URLs) into text box, choose required file type and press download. This version 
